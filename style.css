@@ -252,3 +252,123 @@ Stylisation des sections de la page CV
     padding-bottom: 30px;
     line-height: 170%;
 }
+/*
+
+Stylisation des sections de la page Contact
+
+*/
+.Contact {
+    display: flex;
+    margin: 0% 2%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+
+.Details_Contact {
+    background-color: rgba(255, 255, 255, 10%);
+    width: 100%;
+    font-family: 'Josefin-Regular';
+    margin-left: 15px;
+    color: white;
+}
+
+.Details_Contact h1 {
+    font-size: 24px;
+    background-color: #DC2626;
+    width: 180px;
+    padding: 10px 0px;
+    text-align: center;
+    border-bottom-right-radius: 50px;
+}
+
+.Formulaire_Contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+.Formulaire_Contact div {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+    font-size: 20px;
+    font-family: 'Josefin-Regular';
+    width: 500px;
+}
+.Formulaire_Contact div input {
+    height: 40px;
+    color: white;
+    font-family: 'Josefin-Regular';
+    font-size: 15px;
+    margin-top: 20px;
+    background-color: transparent;
+    border: white solid 1px;
+}
+
+#Message {
+    height: 160px;
+}
+#Boutton_Envoyer {
+    background-color: #DC2626;
+    color: white;
+    width: 500px;
+    height: 70px;
+    border-radius: 50px;
+    font-family: 'Josefin-Bold';
+    font-size: 18px;
+}
+/*
+
+Stylisation des sections de la page Projets
+
+*/
+
+.Infos_Projets {
+    margin: 80px 125px;
+}
+.Projets {
+    display: flex;
+    align-items: center;
+}
+
+.Details_Projets {
+    background-color: rgba(255, 255, 255, 10%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 80px 50px;
+    margin-right: 20px;
+    margin-top: 50px;
+    border-radius: 50px;
+    width: 50%;
+    color: white;
+    font-size: 20px;
+    line-height: 170%;
+    text-align: center;
+}
+.Details_Projets div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Josefin-Bold';
+    font-size: 32px;
+    margin-bottom: 50px;
+    img {
+        margin-right: 15px;
+    }
+}
+
+.Infos_Projets h1{
+    font-size: 24px;
+    background-color: #DC2626;
+    color: white;
+    font-family: 'Josefin-Bold';
+    width: 180px;
+    padding: 10px 0px;
+    text-align: center;
+    border-bottom-right-radius: 50px;
+}
+.Photo_Projets {
+    margin-top: 60px;
+}
