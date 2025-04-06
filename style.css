@@ -318,3 +318,57 @@ Stylisation des sections de la page Contact
     font-family: 'Josefin-Bold';
     font-size: 18px;
 }
+/*
+
+Stylisation des sections de la page Projets
+
+*/
+
+.Infos_Projets {
+    margin: 80px 125px;
+}
+.Projets {
+    display: flex;
+    align-items: center;
+}
+
+.Details_Projets {
+    background-color: rgba(255, 255, 255, 10%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 80px 50px;
+    margin-right: 20px;
+    margin-top: 50px;
+    border-radius: 50px;
+    width: 50%;
+    color: white;
+    font-size: 20px;
+    line-height: 170%;
+    text-align: center;
+}
+.Details_Projets div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Josefin-Bold';
+    font-size: 32px;
+    margin-bottom: 50px;
+    img {
+        margin-right: 15px;
+    }
+}
+
+.Infos_Projets h1{
+    font-size: 24px;
+    background-color: #DC2626;
+    color: white;
+    font-family: 'Josefin-Bold';
+    width: 180px;
+    padding: 10px 0px;
+    text-align: center;
+    border-bottom-right-radius: 50px;
+}
+.Photo_Projets {
+    margin-top: 60px;
+}
