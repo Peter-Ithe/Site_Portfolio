@@ -170,7 +170,7 @@ Stylisation des sections de la page CV
     padding-top: 10%;
     padding-bottom: 20%;
     color: white;
-    font-family: 'Josefin-Bold';
+    font-family: 'Josefin-Bold', "arial", sans-serif;
     border-bottom: rgba(255, 255, 255, 20%) solid 0.5px;
 }
 .Social_Infos_Contact {
@@ -189,7 +189,7 @@ Stylisation des sections de la page CV
     text-align: left;
     font-size: 13px;
     line-height: 180%;
-    font-family: 'Josefin-Light';
+    font-family: 'Josefin-Light', "arial", sans-serif;
 }
 .Social_Infos_Contact div img {
     width: 25px;
@@ -200,7 +200,7 @@ Stylisation des sections de la page CV
 .Details_CV {
     background-color: rgba(255, 255, 255, 10%);
     color: white;
-    font-family: 'Josefin-Regular';
+    font-family: 'Josefin-Regular', "arial", sans-serif;
     width: 100%;
     margin-left: 15px;
 }
@@ -216,7 +216,7 @@ Stylisation des sections de la page CV
 .Titre_Details_CV {
     display: flex;
     padding: 30px;
-    font-family: 'Josefin-Bold';
+    font-family: 'Josefin-Bold', "arial", sans-serif;
     font-size: 30px;
 }
 .Titre_Details_CV img {
@@ -234,7 +234,7 @@ Stylisation des sections de la page CV
     line-height: 180%;
 }
 .Details_Poste {
-    font-family: 'Josefin-Regular';
+    font-family: 'Josefin-Regular', "arial", sans-serif;
     font-size: 20px;
     line-height: 170%;
     padding-left: 75px;
@@ -267,7 +267,7 @@ Stylisation des sections de la page Contact
 .Details_Contact {
     background-color: rgba(255, 255, 255, 10%);
     width: 100%;
-    font-family: 'Josefin-Regular';
+    font-family: 'Josefin-Regular', "arial", sans-serif;
     margin-left: 15px;
     color: white;
 }
@@ -293,13 +293,13 @@ Stylisation des sections de la page Contact
     flex-direction: column;
     margin-bottom: 50px;
     font-size: 20px;
-    font-family: 'Josefin-Regular';
+    font-family: 'Josefin-Regular', "arial", sans-serif;
     width: 500px;
 }
 .Formulaire_Contact div input {
     height: 40px;
     color: white;
-    font-family: 'Josefin-Regular';
+    font-family: 'Josefin-Regular', "arial", sans-serif;
     font-size: 15px;
     margin-top: 20px;
     background-color: transparent;
@@ -315,7 +315,7 @@ Stylisation des sections de la page Contact
     width: 500px;
     height: 70px;
     border-radius: 50px;
-    font-family: 'Josefin-Bold';
+    font-family: 'Josefin-Bold', "arial", sans-serif;
     font-size: 18px;
 }
 /*
@@ -351,7 +351,7 @@ Stylisation des sections de la page Projets
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: 'Josefin-Bold';
+    font-family: 'Josefin-Bold', "arial", sans-serif;
     font-size: 32px;
     margin-bottom: 50px;
     img {
@@ -363,7 +363,7 @@ Stylisation des sections de la page Projets
     font-size: 24px;
     background-color: #DC2626;
     color: white;
-    font-family: 'Josefin-Bold';
+    font-family: 'Josefin-Bold', "arial", sans-serif;
     width: 180px;
     padding: 10px 0px;
     text-align: center;
@@ -382,13 +382,13 @@ Optimisation de la partie responsive pour tablette
 
     .Titre_Accueil {
         color: #DC2626;
-        font-family: 'Josefin-Bold';
+        font-family: 'Josefin-Bold', "arial", sans-serif;
         font-size: 23px;
     }
     .Nav_Menu a{
         color: white;
         padding-left: 30px;
-        font-family: 'Josefin-Light';
+        font-family: 'Josefin-Light', "arial", sans-serif;
         font-size: 17px;
         text-decoration: none;
         border-right: white solid  1px;
@@ -424,13 +424,13 @@ Optimisation de la partie responsive pour tablette
     }
     .Apropos h1 {
         color: #DC2626;
-        font-family: 'Josefin-Bold';
+        font-family: 'Josefin-Bold', "arial", sans-serif;
         font-size: 60px;
     }
     .Apropos_P {
         color: white;
         width: 400;
-        font-family: 'Josefin-Light';
+        font-family: 'Josefin-Light', "arial", sans-serif;
         line-height: 170%;
         font-size: 15px;
         margin: 20px 0px;
@@ -439,7 +439,7 @@ Optimisation de la partie responsive pour tablette
         color: white;
         text-align: center;
         background-color: #DC2626;
-        font-family: 'Josefin-Bold';
+        font-family: 'Josefin-Bold', "arial", sans-serif;
         width: 180px;
         height: 40px;
         font-size: 13px;
@@ -465,7 +465,7 @@ Optimisation de la partie responsive pour tablette
         justify-content: space-around;
     }
     footer p {
-        font-family: 'Josefin-Light';
+        font-family: 'Josefin-Light', "arial", sans-serif;
         color: white;
         line-height: 50px;
         font-size: 13px;
@@ -536,7 +536,7 @@ Optimisation de la partie responsive pour tablette
         text-align: left;
         font-size: 11px;
         line-height: 180%;
-        font-family: 'Josefin-Light';
+        font-family: 'Josefin-Light', "arial", sans-serif;
     }
     .Social_Infos_Contact div img {
         width: 25px;
@@ -547,7 +547,7 @@ Optimisation de la partie responsive pour tablette
     .Details_CV {
         background-color: rgba(255, 255, 255, 10%);
         color: white;
-        font-family: 'Josefin-Regular';
+        font-family: 'Josefin-Regular', "arial", sans-serif;
         width: 100%;
         margin-left: 15px;
     }
@@ -563,7 +563,7 @@ Optimisation de la partie responsive pour tablette
     .Titre_Details_CV {
         display: flex;
         padding: 30px;
-        font-family: 'Josefin-Bold';
+        font-family: 'Josefin-Bold', "arial", sans-serif;
         font-size: 23px;
     }
     .Titre_Details_CV img {
@@ -581,7 +581,7 @@ Optimisation de la partie responsive pour tablette
         line-height: 180%;
     }
     .Details_Poste {
-        font-family: 'Josefin-Regular';
+        font-family: 'Josefin-Regular', "arial", sans-serif;
         font-size: 14px;
         line-height: 170%;
         padding-left: 75px;
@@ -614,7 +614,7 @@ Optimisation de la partie responsive pour tablette
     .Details_Contact {
         background-color: rgba(255, 255, 255, 10%);
         width: 100%;
-        font-family: 'Josefin-Regular';
+        font-family: 'Josefin-Regular', "arial", sans-serif;
         margin-left: 15px;
         color: white;
     }
@@ -640,13 +640,13 @@ Optimisation de la partie responsive pour tablette
         flex-direction: column;
         margin-bottom: 30px;
         font-size: 14px;
-        font-family: 'Josefin-Regular';
+        font-family: 'Josefin-Regular', "arial", sans-serif;
         width: 400px;
     }
     .Formulaire_Contact div input {
         height: 40px;
         color: white;
-        font-family: 'Josefin-Regular';
+        font-family: 'Josefin-Regular', "arial", sans-serif;
         font-size: 15px;
         margin-top: 15px;
         background-color: transparent;
@@ -662,7 +662,7 @@ Optimisation de la partie responsive pour tablette
         width: 400px;
         height: 50px;
         border-radius: 50px;
-        font-family: 'Josefin-Bold';
+        font-family: 'Josefin-Bold', "arial", sans-serif;
         font-size: 14px;
         margin-bottom: 20px;
     }
@@ -694,7 +694,7 @@ Optimisation de la partie responsive pour tablette
         display: flex;
         justify-content: center;
         align-items: center;
-        font-family: 'Josefin-Bold';
+        font-family: 'Josefin-Bold', "arial", sans-serif;
         font-size: 25px;
         margin-bottom: 30px;
     }
@@ -713,7 +713,7 @@ Optimisation de la partie responsive pour tablette
         font-size: 24px;
         background-color: #DC2626;
         color: white;
-        font-family: 'Josefin-Bold';
+        font-family: 'Josefin-Bold', "arial", sans-serif;
         width: 180px;
         text-align: center;
         border-bottom-right-radius: 50px;
@@ -724,12 +724,12 @@ Optimisation de la partie responsive pour tablette
 @media screen and (min-width: 320px) and (max-width: 450px) {
     .Titre_Accueil {
         color: #DC2626;
-        font-family: 'Josefin-Bold';
+        font-family: 'Josefin-Bold', "arial", sans-serif;
         font-size: 15px;
     }
     .Nav_Menu a{
         color: white;
-        font-family: 'Josefin-Light';
+        font-family: 'Josefin-Light', "arial", sans-serif;
         font-size: 11px;
         text-decoration: none;
         border-right: white solid  1px;
@@ -762,13 +762,13 @@ Optimisation de la partie responsive pour tablette
     .Apropos h1 {
         width: 100%;
         color: #DC2626;
-        font-family: 'Josefin-Bold';
+        font-family: 'Josefin-Bold', "arial", sans-serif;
         font-size: 60px;
     }
     .Apropos_P {
         color: white;
         width: 100%;
-        font-family: 'Josefin-Light';
+        font-family: 'Josefin-Light', "arial", sans-serif;
         line-height: 170%;
         font-size: 15px;
         margin: 20px 0px;
@@ -776,7 +776,7 @@ Optimisation de la partie responsive pour tablette
     .Apropos_Bouton {
         color: white;
         background-color: #DC2626;
-        font-family: 'Josefin-Bold';
+        font-family: 'Josefin-Bold', "arial", sans-serif;
         width: 100%;
         height: 40px;
         font-size: 13px;
@@ -807,7 +807,7 @@ Optimisation de la partie responsive pour tablette
         align-items: center;
     }
     footer p {
-        font-family: 'Josefin-Light';
+        font-family: 'Josefin-Light', "arial", sans-serif;
         color: white;
         line-height: 50px;
         font-size: 13px;
@@ -851,7 +851,7 @@ Optimisation de la partie responsive pour tablette
     .Details_Projets div {
         display: flex;
         align-items: baseline;
-        font-family: 'Josefin-Bold';
+        font-family: 'Josefin-Bold', "arial", sans-serif;
         font-size: 30px;
         margin-bottom: 30px;
     }
@@ -870,7 +870,7 @@ Optimisation de la partie responsive pour tablette
         font-size: 20px;
         background-color: #DC2626;
         color: white;
-        font-family: 'Josefin-Bold';
+        font-family: 'Josefin-Bold', "arial", sans-serif;
         width: 150px;
         text-align: center;
         border-bottom-right-radius: 50px;
@@ -894,7 +894,7 @@ Optimisation de la partie responsive pour tablette
     .Details_Contact {
         background-color: rgba(255, 255, 255, 10%);
         width: 100%;
-        font-family: 'Josefin-Regular';
+        font-family: 'Josefin-Regular', "arial", sans-serif;
         margin-left: 15px;
         color: white;
     }
@@ -920,13 +920,13 @@ Optimisation de la partie responsive pour tablette
         flex-direction: column;
         margin-bottom: 30px;
         font-size: 14px;
-        font-family: 'Josefin-Regular';
+        font-family: 'Josefin-Regular', "arial", sans-serif;
         width: 300px;
     }
     .Formulaire_Contact div input {
         height: 40px;
         color: white;
-        font-family: 'Josefin-Regular';
+        font-family: 'Josefin-Regular', "arial", sans-serif;
         font-size: 15px;
         margin-top: 15px;
         background-color: transparent;
@@ -942,7 +942,7 @@ Optimisation de la partie responsive pour tablette
         width: 300px;
         height: 50px;
         border-radius: 50px;
-        font-family: 'Josefin-Bold';
+        font-family: 'Josefin-Bold', "arial", sans-serif;
         font-size: 14px;
         margin-bottom: 30px;
     }
@@ -982,7 +982,7 @@ Optimisation de la partie responsive pour tablette
         padding-top: 10%;
         padding-bottom: 20%;
         color: white;
-        font-family: 'Josefin-Bold';
+        font-family: 'Josefin-Bold', "arial", sans-serif;
         border-bottom: rgba(255, 255, 255, 20%) solid 0.5px;
     }
     .Social_Infos_Contact {
@@ -1001,7 +1001,7 @@ Optimisation de la partie responsive pour tablette
         text-align: left;
         font-size: 11px;
         line-height: 180%;
-        font-family: 'Josefin-Light';
+        font-family: 'Josefin-Light', "arial", sans-serif;
     }
     .Social_Infos_Contact div img {
         width: 25px;
@@ -1012,7 +1012,7 @@ Optimisation de la partie responsive pour tablette
     .Details_CV {
         background-color: rgba(255, 255, 255, 10%);
         color: white;
-        font-family: 'Josefin-Regular';
+        font-family: 'Josefin-Regular', "arial", sans-serif;
         margin-top: 10%;
     }
     .Details_CV h1 {
@@ -1027,7 +1027,7 @@ Optimisation de la partie responsive pour tablette
     .Titre_Details_CV {
         display: flex;
         padding: 25px 20px;
-        font-family: 'Josefin-Bold';
+        font-family: 'Josefin-Bold', "arial", sans-serif;
         font-size: 23px;
     }
     .Titre_Details_CV img {
@@ -1045,7 +1045,7 @@ Optimisation de la partie responsive pour tablette
         line-height: 180%;
     }
     .Details_Poste {
-        font-family: 'Josefin-Regular';
+        font-family: 'Josefin-Regular', "arial", sans-serif;
         font-size: 14px;
         line-height: 170%;
         padding-left: 50px;
