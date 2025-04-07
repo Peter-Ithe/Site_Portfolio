@@ -24,13 +24,13 @@ body {
  /*Le style de la NavBar qui sera utilisé pour toutes pages du site*/
 .Titre_Accueil {
     color: #DC2626;
-    font-family: 'Josefin-Bold';
+    font-family: 'Josefin-Bold', sans-serif;
     font-size: 28px;
 }
 .Nav_Menu a{
     color: white;
     padding: 0px 30px;
-    font-family: 'Josefin-Light';
+    font-family: 'Josefin-Light', sans-serif;
     font-size: 22px;
     text-decoration: none;
     border-right: white solid  1px;
@@ -67,13 +67,13 @@ nav {
 }
 .Apropos h1 {
     color: #DC2626;
-    font-family: 'Josefin-Bold';
+    font-family: 'Josefin-Bold', sans-serif;
     font-size: 68px;
 }
 .Apropos_P {
     color: white;
     width: 400;
-    font-family: 'Josefin-Light';
+    font-family: 'Josefin-Light', sans-serif;
     line-height: 160%;
     font-size: 20px;
     margin: 40px 0px;
@@ -82,7 +82,7 @@ nav {
     color: white;
     text-align: center;
     background-color: #DC2626;
-    font-family: 'Josefin-Bold';
+    font-family: 'Josefin-Bold', sans-serif;
     width: 250px;
     height: 60px;
     font-size: 18px;
@@ -113,7 +113,7 @@ footer {
     justify-content: space-around;
 }
 footer p {
-    font-family: 'Josefin-Light';
+    font-family: 'Josefin-Light', sans-serif;
     color: white;
     line-height: 70px;
     font-size: 18px;
